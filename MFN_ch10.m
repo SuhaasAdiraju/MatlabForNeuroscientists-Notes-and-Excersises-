@@ -218,6 +218,7 @@
     
 
 % Excersises
+
 % 1a. valid, 4x4, 1b.invalid, 1c. invalid, d. valid, 4x5, e. invalid, f.
 % valid, 4x4, g. valid, 5x4, h. invalid
     % Test 
